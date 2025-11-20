@@ -1,0 +1,7 @@
+{
+  "name": "Free Demo",
+  "description": "A deployable voice assistant demo utilizing Vapi AI technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
